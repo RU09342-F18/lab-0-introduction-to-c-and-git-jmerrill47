@@ -1,4 +1,4 @@
-The math method is a very simple method which contains three parameters, two integers (num1 and num2) and a character (Operator).  The action of the method is completely dependant on the Operator. 
+The math method is a very simple method which contains three parameters, two integers (num1 and num2) and a character (Operator).  The action of the math method is completely dependant on what Operator is. 
 
 If Operator is a '+', num1 and num2 are added together and the method returns the summed value.
 
