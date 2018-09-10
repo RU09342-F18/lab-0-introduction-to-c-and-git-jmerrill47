@@ -21,3 +21,5 @@ If Operator is a '|', the method will return num1 OR num2.
 If Operator is a '^', the method will return num1 XOR num2.
 
 If Operator is a '~', the method with return the inverse of num1.
+
+This is all tested in a simple main program which displays what the answer is and has a commented table of what each operator does.
