@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include "math.h"
+
+int main()
+{
+	//Insert num1 and num2
+	int num1 = 20;
+	int num2 = 12;
+
+	//Choose your Operator
+	/*
+	'+' ---> addition
+	'-' ---> subtraction
+	'*' ---> multiplication
+	'/' ---> division
+	'%' ---> modulus division
+	'<' ---> shift left
+	'>' ---> shift right
+	'&' ---> AND
+	'|' ---> OR
+	'^' ---> XOR
+	'~' ---> NOT
+	*/
+	char Operator = '+';
+
+	//Print out the answer
+	printf("The answer is %d\n", math(num1, num2, Operator));
+
+	return 0;
+}
